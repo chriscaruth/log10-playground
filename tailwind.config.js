@@ -46,15 +46,15 @@ module.exports = {
             faint: "#0B1229", // custom
             muted: "#172554", // blue-950
             subtle: "#1e40af", // blue-800
-            DEFAULT: "#3b82f6", // blue-500
-            emphasis: "#60a5fa", // blue-400
+            DEFAULT: "#14B8A6", //teal-500
+            emphasis: "#5EEAD4", //teal-300
             inverted: "#030712", // gray-950
           },
           background: {
             muted: "#131A2B", // custom
             subtle: "#1f2937", // gray-800
-            DEFAULT: "#111827", // gray-900
-            emphasis: "#d1d5db", // gray-300
+            DEFAULT: "#0f172a", //teal-500
+            emphasis: "5EEAD4", //teal-300
           },
           border: {
             DEFAULT: "#1f2937", // gray-800
@@ -83,7 +83,7 @@ module.exports = {
       },
       borderRadius: {
         "tremor-small": "0.375rem",
-        "tremor-default": "0.5rem",
+        "tremor-default": ".75rem",
         "tremor-full": "9999px",
       },
       fontSize: {
